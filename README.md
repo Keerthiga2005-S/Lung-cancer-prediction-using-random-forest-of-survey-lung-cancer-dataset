@@ -1,0 +1,1 @@
+# Lung-cancer-prediction-using-random-forest-of-survey-lung-cancer-dataset
